@@ -94,17 +94,6 @@ module.exports = {
     },
   ],
   portifolio: [
-    {
-      image: '/images/gatsby-starter-cv.png',
-      description: 'Gatsby starter CV template',
-      url:
-        'https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/',
-    },
-    {
-      image: '/images/awesome-grid.png',
-      description: 'Responsive grid for ReactJS',
-      url: 'https://github.com/santosfrancisco/react-awesome-styled-grid',
-    },
     /* more portifolio items here */
   ],
   social: {
@@ -114,7 +103,7 @@ module.exports = {
     github: 'https://github.com/jcBuendiaDevelop',
     email: 'juan.carlosutninfo@gmail.com',
   },
-  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
+  siteUrl: 'https://github.com/jcBuendiaDevelop/gatsby-cv-jbuendia',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpg',
   googleAnalyticsId: 'UA-000000000-1',
